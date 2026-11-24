@@ -1,0 +1,6 @@
+{
+  "name": "PlateCraft CAD — ユニバーサルプレート STL ジェネレーター",
+  "description": "指定した縦横の穴数・寸法から四角形・円形のユニバーサルプレートを設計し、上面2D図でのクリック穴編集と3Dプレビューを経て実寸mmのSTLファイルを書き出せるWeb CADツール。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
